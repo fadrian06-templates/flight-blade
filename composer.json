@@ -1,0 +1,9 @@
+{
+  "require": {
+    "php": ">=8.2",
+    "flightphp/core": "^3.13",
+    "illuminate/view": "9.x-dev",
+    "leafs/blade": "^2.0",
+    "ramsey/uuid": "^4.7"
+  }
+}
